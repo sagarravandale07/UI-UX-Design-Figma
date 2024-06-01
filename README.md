@@ -20,9 +20,6 @@ The Login/Signup page interface is a critical component for any application that
   - Visible and easily accessible buttons for login and signup
   - Error messages and validation feedback for user input
 
-- **Preview:**
-  ![Login/Signup Page](path_to_login_signup_page_image)
-
 - **Figma Link:**
   [Login/Signup Page Interface](https://www.figma.com/proto/DDaBspt9QHLeAp7roWmYnQ/Login%2FSignup?t=Kx9D4hVuEQPmUuFc-1&scaling=scale-down&page-id=0%3A1&node-id=42-113&starting-point-node-id=13%3A2)
 
@@ -35,9 +32,6 @@ The Fitness Tracker Mobile App is designed to help users monitor their fitness a
   - Goal-setting and progress tracking features
   - Integration with wearable devices for real-time data synchronization
 
-- **Preview:**
-  ![Fitness Tracker App](path_to_fitness_tracker_app_image)
-
 - **Figma Link:**
   [Fitness Tracker Mobile App Design](https://www.figma.com/proto/A7RHg2Ki8pMGcmKvdCtwhd/Fitness-Tracker-App-Design?node-id=10-56&t=efh2lNH011GpkuvV-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=10%3A55)
 
@@ -49,9 +43,6 @@ The Music App design focuses on delivering a rich and immersive listening experi
   - Music player with controls for play, pause, skip, and shuffle
   - Library management for organizing songs, albums, and artists
   - Search functionality for finding specific tracks or artists
-
-- **Preview:**
-  ![Music App](path_to_music_app_image)
 
 - **Figma Link:**
   [Music App Design](https://www.figma.com/proto/dN06muZa7NiDFVfkzrYmV4/Music-App-final?node-id=105-1298&t=sf3i56XEEXygSRvq-1&scaling=min-zoom&page-id=105%3A545)
